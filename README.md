@@ -1,4 +1,4 @@
-# simple-keras-cnn
+# Simple Keras CNN
 I used this simple code to learn building a quick CNN with keras.
 
 ## Dependencies
