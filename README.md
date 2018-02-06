@@ -12,11 +12,11 @@ Select the location of your new Anaconda environment. In my case:
 Select Python version 2.7 -> Ok
 
 Now add the following packages:
-numpy - v1.12.1
-scipy - v0.19.1
-theano - v1.0.1
-mkl
-keras
+- numpy - v1.12.1
+- scipy - v0.19.1
+- theano - v1.0.1
+- mkl
+- keras
 
 For this project we are using Keras with Theano backend (default is tensorflow). So we have to change the setting in the keras.json file. Open Terminal and type:
 
