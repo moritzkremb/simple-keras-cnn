@@ -20,7 +20,7 @@ keras
 
 For this project we are using Keras with Theano backend (default is tensorflow). So we have to change the setting in the keras.json file. Open Terminal and type:
 
-'nano ~/.keras/keras.json'
+`nano ~/.keras/keras.json`
 
 Now change the backend to "theano".
 
